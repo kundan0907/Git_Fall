@@ -12,4 +12,6 @@ This is a line for Commit 7
 This is a line for commit 8
 This is a line for Commit 9
 This is a line for Commit 10
+This is a line for commit 11
+This is a line for Commit 12
 
