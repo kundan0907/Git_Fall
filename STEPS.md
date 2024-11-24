@@ -17,4 +17,13 @@ git commit -m "Commit 0: Initial commit"
 
 Repeat this step for commit 2
 
+Before step 3, lets create a new branch using
+
+git checkout -b bug-fix
+
+And do the 3rd commit 
+
+and check back to master using 
+
+git checkout master
 
