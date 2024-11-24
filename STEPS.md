@@ -15,5 +15,6 @@ Create STEPS.md and commit with
 git add README.md STEPS.md
 git commit -m "Commit 0: Initial commit"
 
+Repeat this step for commit 2
 
 
