@@ -27,3 +27,5 @@ and check back to master using
 
 git checkout master
 
+
+Using these different commands, go ahead and back and merge into bug fix
